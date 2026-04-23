@@ -31,7 +31,7 @@ Solutions to competitive programming problems. Organized by topic with time/spac
 
 ## Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agni&show_icons=true&theme=dark)](https://github.com/absurdist-programmer-33)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=absurdist-programmer-33 &show_icons=true&theme=dark)](https://github.com/absurdist-programmer-33)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absurdist-programmer-33 &layout=compact&theme=dark)](https://github.com/absurdist-programmer-33)
 
