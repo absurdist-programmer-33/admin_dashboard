@@ -18,6 +18,11 @@ Building systems and solving problems through code. Current focus: competitive p
 - Building full-stack web and mobile app projects to understand systems end-to-end
 - Writing clean, readable code that scales
 
+## Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=absurdist-programmer-33&show_icons=true&theme=dark)](https://github.com/absurdist-programmer-33)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absurdist-programmer-33&layout=compact&theme=dark)](https://github.com/absurdist-programmer-33)
 
 ## Get in Touch
 
@@ -25,4 +30,4 @@ Building systems and solving problems through code. Current focus: competitive p
 
 ---
 
-Last updated: 2026-04-22
+Last updated: 2026-04-23
