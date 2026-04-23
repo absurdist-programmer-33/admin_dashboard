@@ -31,13 +31,13 @@ Solutions to competitive programming problems. Organized by topic with time/spac
 
 ## Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agni&show_icons=true&theme=dark)](https://github.com/agni)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agni&show_icons=true&theme=dark)](https://github.com/absurdist-programmer-33)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agni&layout=compact&theme=dark)](https://github.com/agni)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absurdist-programmer-33 &layout=compact&theme=dark)](https://github.com/absurdist-programmer-33)
 
 ## Get in Touch
 
-**LinkedIn:** [linkedin.com/in/agni](https://linkedin.com/in/agni)
+**LinkedIn:** [linkedin.com/in/homagni-choudhury-659b26328](https://linkedin.com/in/homagni-choudhury-659b26328)
 
 ---
 
